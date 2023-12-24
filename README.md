@@ -13,8 +13,10 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 
  Obtain the Q matrix
+   Q = (e1|e2| ... ... ...en)
   
-    ![image](https://github.com/23006111/QRdecomposition/assets/145981696/0210c57e-517b-4483-afb1-1c38b427717f)
+    
+
 
 
 4.	Construct the upper triangular matrix R
